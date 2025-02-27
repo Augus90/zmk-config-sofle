@@ -90,8 +90,8 @@
             //                |      |       |       |      |      |  |      |      |      |       |      |
 
             bindings = <
-&trans      &trans            &trans             &trans                                  &trans                             &trans                         &trans          &trans          &trans        &trans                &trans                 &trans
-&kp TILDE   &kp EXCLAMATION   &kp AT_SIGN        &kp POUND                               &kp DOLLAR                         &kp PERCENT                    &kp CARET       &kp AMPERSAND   &kp STAR      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL
+&trans      &trans            &trans             &trans                                  &trans                             &trans                         &trans          &trans          &trans        &trans                &trans                 &kp EQUAL
+&kp TILDE   &kp EXCLAMATION   &kp AT_SIGN        &kp POUND                               &kp DOLLAR                         &kp PERCENT                    &kp CARET       &kp AMPERSAND   &kp STAR      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE
 &kp DELETE  &kp K_UNDO        &kt K_CUT          &kp K_COPY                              &kp K_PASTE                        &kp CLCK                       &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW       &kp ESC                &kp BSPC
 &trans      &kp C_AC_ZOOM_IN  &kp C_AC_ZOOM_OUT  &kp C_AC_DESKTOP_SHOW_ALL_APPLICATIONS  &kp C_AC_DESKTOP_SHOW_ALL_WINDOWS  &trans       &trans    &trans  &kp HOME        &kp PAGE_DOWN   &kp PAGE_UP   &kp END               &kp BACKSLASH          &trans
                               &trans             &trans                                  &trans                             &trans       &trans    &trans  &trans          &trans          &trans        &trans
